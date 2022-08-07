@@ -1,4 +1,4 @@
-# This Package is a very simple JSON response getter
+# This Package is a very simple JSON response getter with Go
 easy peasy only import package and then :
 sgeht.SReq(url)
 only give url as string inside SReq function.
