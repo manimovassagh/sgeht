@@ -1,4 +1,5 @@
 # This Package is a very simple JSON response getter with Go
+The name i chose come from Es gehts which means in german it is ok
 easy peasy only import package and then :
 sgeht.SReq(url)
 only give url as string inside SReq function.
